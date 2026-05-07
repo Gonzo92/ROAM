@@ -1,0 +1,39 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/.env.local
+backend/dist/
+backend/build/
+backend/.DS_Store
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+
+# Android
+android/.gradle/
+android/.idea/
+android/build/
+android/*/build/
+android/*.apk
+android/*.aar
+android/local.properties
+android/.DS_Store
+android/captures/
+android/.externalNativeBuild
+android/.cxx/
+android/*.iml
+android/*.jks
+android/*.keystore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.env.local
+.env.*.local

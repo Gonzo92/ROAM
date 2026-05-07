@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors (Muted Salmon/Coral) -->
+    <color name="primary">#E68A73</color>
+    <color name="primary_light">#F2A694</color>
+    <color name="primary_dark">#C96B55</color>
+
+    <!-- Secondary Colors (Sandstone/Beige variant) -->
+    <color name="secondary">#D9D2C5</color>
+    <color name="secondary_light">#EBE5D9</color>
+    <color name="secondary_dark">#BDB5A6</color>
+
+    <!-- Tertiary Colors (Sage Green for success/accents) -->
+    <color name="tertiary">#8A9A86</color>
+    <color name="tertiary_light">#A9B8A5</color>
+    <color name="tertiary_dark">#6B7A68</color>
+
+    <!-- Neutral Colors (Organic) -->
+    <color name="white">#FFFFFF</color>
+    <color name="background_beige">#F5F2ED</color>
+    <color name="light_gray">#EBE5D9</color>
+    <color name="medium_gray">#C4BCAE</color>
+    <color name="dark_gray">#7A756C</color>
+    <color name="charcoal">#323330</color>
+    <color name="black">#1A1A1A</color>
+
+    <!-- Semantic Colors -->
+    <color name="success">#8A9A86</color>
+    <color name="error">#D96C6C</color>
+    <color name="warning">#E6B873</color>
+    <color name="info">#73A6E6</color>
+
+    <!-- Surface Colors -->
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F5F2ED</color>
+</resources>
